@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "name": "masterPortfolio",
   "homepage": "https://rafatrinity.github.io",
   "version": "0.1.0",
