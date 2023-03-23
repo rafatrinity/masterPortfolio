@@ -419,7 +419,6 @@ const experience = {
           location: "Rio de Janeiro, Brasil",
           description:
             "During his 1 year and 7 months internship at the Tribunal de Contas do Estado do Rio de Janeiro, the software development intern worked on three projects. The first project involved developing a Web Scraper / RPA to automate user registration on a website based on a CSV table, which saved time and reduced errors caused by manual data entry.Technologies used included JavaScript, Node.js, and CronTab. The second project involved creating a static webpage in WordPress to showcase the catalog of courses, projects, and improvements made by the Tribunal de Contas.Technologies used included WordPress, SEO, and CRO. The third project was to recreate the content display system using Angular 6, Node.js, .Net Core, TFS, GIT, SQL Server, and Windows Server, but this time with dynamic features, allowing users to interact with the page and log in .",
-          color: "#000000",
           color: "#409d91",
         },
       ],
