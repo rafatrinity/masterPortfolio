@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Rafael Trindade Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://rafatrinity.github.io/masterPortfolio/",
   },
 };
 

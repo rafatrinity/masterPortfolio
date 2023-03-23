@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "masterPortfolio",
-  "homepage": "https://rafatrinity.github.io/",
+  "homepage": "https://rafatrinity.github.io",
   "version": "0.1.1",
   "scripts": {
     "build": "react-scripts build",
