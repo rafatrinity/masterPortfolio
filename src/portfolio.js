@@ -361,7 +361,7 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Britania",
+          title: "Sr Full-Stack Develper",
           company: "Britania | Philco",
           company_url: "https://britania.com.br/",
           logo_path: "britania.png",
@@ -372,7 +372,7 @@ const experience = {
           color: "#152942",
         },
         {
-          title: "Tagme",
+          title: "Full-Stack Develper",
           company: "Tagme food solutions",
           company_url: "https://landing.tagme.com.br/",
           logo_path: "tagme.png",
@@ -383,7 +383,7 @@ const experience = {
           color: "#fd803c",
         },
         {
-          title: "Eleva",
+          title: "Devops analyst",
           company: "Eleva | Salta's group",
           company_url: "https://gruposaltaedu.com/",
           logo_path: "eleva.png",
