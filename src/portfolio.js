@@ -24,7 +24,8 @@ const greeting = {
   nickname: "RafaTrinity",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
-  resumeLink: "https://onlinecurriculo.com.br/r/TZ9ZYyBM9",
+  resumeLink:
+    "https://drive.google.com/file/d/15rlLhGmbz2O5BbH6LbrtNEr9uP8SFnO0/view?usp=sharing",
   portfolio_repository: "https://github.com/rafatrinity/masterPortfolio",
   githubProfile: "https://github.com/rafatrinity",
 };
