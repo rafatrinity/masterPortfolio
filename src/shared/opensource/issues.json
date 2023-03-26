@@ -1,6 +1,26 @@
 {
-  "closed": 14,
+  "closed": 15,
   "data": [
+    {
+      "id": "I_kwDODqGIis5hqklC",
+      "closed": true,
+      "title": "You need to enable JavaScript to run this app.",
+      "createdAt": "2023-03-24T00:57:37Z",
+      "url": "https://github.com/ashutosh1919/masterPortfolio/issues/279",
+      "number": 279,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "masterPortfolio",
+        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "owner": {
+          "login": "ashutosh1919",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "url": "https://github.com/ashutosh1919"
+        }
+      }
+    },
     {
       "id": "I_kwDOGKP7bs49IXqO",
       "closed": false,
@@ -761,5 +781,5 @@
     }
   ],
   "open": 17,
-  "totalCount": 31
+  "totalCount": 32
 }
