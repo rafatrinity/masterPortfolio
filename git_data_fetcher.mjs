@@ -259,7 +259,7 @@ const languages_icons = {
   Dockerfile: "simple-icons:docker",
   Rust: "logos-rust",
   C: "logos-c",
-  TypeScript: "logos-typescript"
+  TypeScript: "simple-icons:typescript"
 };
 
 fetch(baseUrl, {

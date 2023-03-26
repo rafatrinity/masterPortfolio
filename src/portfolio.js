@@ -116,11 +116,11 @@ const skills = {
           },
         },
         {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
+          skillName: "TypeScript",
+          fontAwesomeClassname: "simple-icons:typescript",
           style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
+            backgroundColor: "#ffff",
+            color: "#3178c6",
           },
         },
         // {
