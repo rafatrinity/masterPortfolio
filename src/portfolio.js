@@ -461,43 +461,21 @@ const publicationsHeader = {
 const publications = {
   data: [
     {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Sample",
-      createdAt: "2021-03-06T16:26:54Z",
-      description: "",
-      url: "https://github.com/rafatrinity/sample",
+      id: "0",
+      name: "Strings 🎈 ",
+      createdAt: "2018-24-03T16:26:54Z",
+      description:
+        "Subject: Manipulation algorithms and search for patterns in strings.",
+      url: "https://www.linkedin.com/pulse/aula-de-strings-rafael-trindade/",
     },
     {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      id: "1",
+      name: "AnoniBus 🚌 ",
+      createdAt: "2020-04-03T16:26:54Z",
+      description:
+        "Anonibus Project, an application to which it is intended to hold casual meetings on public transport in order to establish contact between passengers, in anonymity between users. This project is part of the evaluation of the development of distributed applications and has the support and encouragement of Professor Antonio Podgorski of UniCarioca.",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://www.linkedin.com/posts/rafatrinity_projeto-anonibus-com-thamires-vasconcelos-activity-6680267598434725888-IqYO?utm_source=share&utm_medium=member_desktop",
     },
   ],
 };
