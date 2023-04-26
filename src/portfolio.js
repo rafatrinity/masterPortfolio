@@ -116,6 +116,13 @@ const skills = {
           },
         },
         {
+          skillName: "Angular 2+",
+          fontAwesomeClassname: "simple-icons:angular",
+          style: {
+            color: "#DD0031",
+          },
+        },
+        {
           skillName: "TypeScript",
           fontAwesomeClassname: "simple-icons:typescript",
           style: {
@@ -131,17 +138,17 @@ const skills = {
         //   },
         // },
         {
-          skillName: "Angular 2+",
-          fontAwesomeClassname: "simple-icons:angular",
-          style: {
-            color: "#DD0031",
-          },
-        },
-        {
           skillName: "Nest",
           fontAwesomeClassname: "simple-icons:nestjs",
           style: {
             color: "#E0234E",
+          },
+        },
+        {
+          skillName: "RabbitMQ",
+          fontAwesomeClassname: "simple-icons:rabbitmq",
+          style: {
+            color: "#fe6601",
           },
         },
         {
@@ -151,20 +158,20 @@ const skills = {
             color: "#339933",
           },
         },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
+        // {
+        //   skillName: "NPM",
+        //   fontAwesomeClassname: "simple-icons:npm",
+        //   style: {
+        //     color: "#CB3837",
+        //   },
+        // },
+        // {
+        //   skillName: "Yarn",
+        //   fontAwesomeClassname: "simple-icons:yarn",
+        //   style: {
+        //     color: "#2C8EBB",
+        //   },
+        // },
       ],
     },
     {
