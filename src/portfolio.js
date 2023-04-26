@@ -369,14 +369,14 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Sr Full-Stack Develper",
+          title: "Full-Stack Develper",
           company: "Britania | Philco",
           company_url: "https://britania.com.br/",
           logo_path: "britania.png",
           duration: "Sep 2021 - Mar 2023",
           location: "Rio de Janeiro, Brasil",
           description:
-            "In Britania, I worked for 1 year and 7 months as a senior developer on a CRM project that used modern techniques such as micro services and mono repo, and the technologies Node JS, React, Docker and Kubernetes. I led the team in some modules of the project, proposed innovative solutions and ensured the quality of the code produced. The result was a robust and scalable CRM system, which brought significant improvements to the company and its customers.",
+            "In Britania, I worked for 1 year and 7 months as a full-stack developer on a CRM project that used modern techniques such as micro services and mono repo, and the technologies Node JS, React, Docker and Kubernetes. I led the team in some modules of the project, proposed innovative solutions and ensured the quality of the code produced. The result was a robust and scalable CRM system, which brought significant improvements to the company and its customers.",
           color: "#152942",
         },
         {
