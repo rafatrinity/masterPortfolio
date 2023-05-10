@@ -82,6 +82,18 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
+  {
+    name: "WhatsApp",
+    link: "https://wa.me/5521982083414",
+    fontAwesomeIcon: "fa-whatsapp", // Reference https://fontawesome.com/icons/instagram?style=brands
+    backgroundColor: "#075E54", // Reference https://simpleicons.org/?q=instagram
+  },
+  {
+    name: "Telegram",
+    link: "https://t.me/RafaTrinity",
+    fontAwesomeIcon: "fa-telegram", // Reference https://fontawesome.com/icons/instagram?style=brands
+    backgroundColor: "#37AEE2", // Reference https://simpleicons.org/?q=instagram
+  },
 ];
 
 const skills = {
@@ -496,11 +508,11 @@ const contactPageData = {
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
-    title: "Blogs",
-    subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "",
-    avatar_image_path: "blogs_image.svg",
+    // title: "Blogs",
+    // subtitle:
+    //   "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
+    // link: "",
+    // avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     // title: "Address",
@@ -510,8 +522,8 @@ const contactPageData = {
     // location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
   phoneSection: {
-    title: "contato",
-    subtitle: "+5521982083414",
+    // title: "contato",
+    // subtitle: "+5521982083414",
   },
 };
 
