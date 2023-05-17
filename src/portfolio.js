@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1Sfe7hGovYW7vVfuY1aJzmmKBNv2gRthX/view?usp=sharing",
+    "https://drive.google.com/file/d/1k1Q7oHrHLu7g2LpmFNvEBAHctiKIIMn1/view?usp=sharing",
   portfolio_repository: "https://github.com/rafatrinity/masterPortfolio",
   githubProfile: "https://github.com/rafatrinity",
 };
