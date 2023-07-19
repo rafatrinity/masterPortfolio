@@ -405,7 +405,7 @@ const experience = {
           title: "Devops analyst",
           company: "Eleva | Salta's group",
           company_url: "https://gruposaltaedu.com/",
-          logo_path: "eleva.png",
+          logo_path: "salta.png",
           duration: "Sep 2020 - May 2021",
           location: "Rio de Janeiro, Brasil",
           description:
