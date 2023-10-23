@@ -1,1 +1,1067 @@
-{"data":[{"id":"I_kwDOJXCbRc5jg_cC","closed":false,"title":"Save user information in MongoDB.","createdAt":"2023-04-15T22:28:00Z","url":"https://github.com/rafatrinity/user-registration/issues/11","number":11,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"user-registration","url":"https://github.com/rafatrinity/user-registration","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"I_kwDOJXCbRc5jg_b1","closed":true,"title":"Send data to RabbitMQ.","createdAt":"2023-04-15T22:27:56Z","url":"https://github.com/rafatrinity/user-registration/issues/10","number":10,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"user-registration","url":"https://github.com/rafatrinity/user-registration","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"I_kwDOJXCbRc5jg_J2","closed":true,"title":"Create CRUD endpoints","createdAt":"2023-04-15T22:21:48Z","url":"https://github.com/rafatrinity/user-registration/issues/7","number":7,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"user-registration","url":"https://github.com/rafatrinity/user-registration","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"I_kwDOJXCbRc5jfL21","closed":true,"title":"Create Main application","createdAt":"2023-04-15T02:59:07Z","url":"https://github.com/rafatrinity/user-registration/issues/4","number":4,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"user-registration","url":"https://github.com/rafatrinity/user-registration","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"I_kwDOJXCbRc5jfLoj","closed":false,"title":"Create an application for sending emails.","createdAt":"2023-04-15T02:55:31Z","url":"https://github.com/rafatrinity/user-registration/issues/3","number":3,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"user-registration","url":"https://github.com/rafatrinity/user-registration","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"I_kwDOJXCbRc5jfLSs","closed":true,"title":"Create mongoDb container","createdAt":"2023-04-15T02:49:33Z","url":"https://github.com/rafatrinity/user-registration/issues/2","number":2,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"user-registration","url":"https://github.com/rafatrinity/user-registration","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"I_kwDOJXCbRc5jfLMJ","closed":true,"title":"Create RabbitMq container","createdAt":"2023-04-15T02:48:13Z","url":"https://github.com/rafatrinity/user-registration/issues/1","number":1,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"user-registration","url":"https://github.com/rafatrinity/user-registration","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"I_kwDOJPujZs5iBVN5","closed":true,"title":"iniciar o projeto usando angular na versão mais recente","createdAt":"2023-03-28T19:07:38Z","url":"https://github.com/rafatrinity/WeatherForecast/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"WeatherForecast","url":"https://github.com/rafatrinity/WeatherForecast","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"I_kwDODqGIis5hqklC","closed":true,"title":"You need to enable JavaScript to run this app.","createdAt":"2023-03-24T00:57:37Z","url":"https://github.com/ashutosh1919/masterPortfolio/issues/279","number":279,"assignees":{"nodes":[]},"repository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"login":"ashutosh1919","avatarUrl":"https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4","url":"https://github.com/ashutosh1919"}}},{"id":"I_kwDOGKP7bs49IXqO","closed":false,"title":"Funcional","createdAt":"2021-10-13T19:10:57Z","url":"https://github.com/britaniacrm/crm/issues/3","number":3,"assignees":{"nodes":[]},"repository":{"name":"crm","url":"https://github.com/britaniacrm/crm","owner":{"login":"britaniacrm","avatarUrl":"https://avatars.githubusercontent.com/u/91884648?v=4","url":"https://github.com/britaniacrm"}}},{"id":"I_kwDOGKP7bs49IW_q","closed":false,"title":"Código","createdAt":"2021-10-13T19:07:59Z","url":"https://github.com/britaniacrm/crm/issues/2","number":2,"assignees":{"nodes":[]},"repository":{"name":"crm","url":"https://github.com/britaniacrm/crm","owner":{"login":"britaniacrm","avatarUrl":"https://avatars.githubusercontent.com/u/91884648?v=4","url":"https://github.com/britaniacrm"}}},{"id":"I_kwDOGKP7bs49IW11","closed":false,"title":"IDE","createdAt":"2021-10-13T19:07:14Z","url":"https://github.com/britaniacrm/crm/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"crm","url":"https://github.com/britaniacrm/crm","owner":{"login":"britaniacrm","avatarUrl":"https://avatars.githubusercontent.com/u/91884648?v=4","url":"https://github.com/britaniacrm"}}},{"id":"I_kwDOGIPGtc48NmQC","closed":false,"title":"configurar linting","createdAt":"2021-09-28T20:52:20Z","url":"https://github.com/britaniacwb/COM/issues/4","number":4,"assignees":{"nodes":[]},"repository":{"name":"COM","url":"https://github.com/britaniacwb/COM","owner":{"login":"britaniacwb","avatarUrl":"https://avatars.githubusercontent.com/u/88673148?v=4","url":"https://github.com/britaniacwb"}}},{"id":"I_kwDOGIPGtc48Ne6X","closed":false,"title":"unir projetos (FRONT)","createdAt":"2021-09-28T20:16:10Z","url":"https://github.com/britaniacwb/COM/issues/3","number":3,"assignees":{"nodes":[]},"repository":{"name":"COM","url":"https://github.com/britaniacwb/COM","owner":{"login":"britaniacwb","avatarUrl":"https://avatars.githubusercontent.com/u/88673148?v=4","url":"https://github.com/britaniacwb"}}},{"id":"I_kwDOGIPGtc48NaQ_","closed":false,"title":"unir projetos (BACK)","createdAt":"2021-09-28T19:56:10Z","url":"https://github.com/britaniacwb/COM/issues/2","number":2,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"COM","url":"https://github.com/britaniacwb/COM","owner":{"login":"britaniacwb","avatarUrl":"https://avatars.githubusercontent.com/u/88673148?v=4","url":"https://github.com/britaniacwb"}}},{"id":"I_kwDOGIPGtc48NXjN","closed":false,"title":"projeto inicial","createdAt":"2021-09-28T19:42:33Z","url":"https://github.com/britaniacwb/COM/issues/1","number":1,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"COM","url":"https://github.com/britaniacwb/COM","owner":{"login":"britaniacwb","avatarUrl":"https://avatars.githubusercontent.com/u/88673148?v=4","url":"https://github.com/britaniacwb"}}},{"id":"MDU6SXNzdWU4MzA3MjYyODk=","closed":false,"title":"criar primeira tela","createdAt":"2021-03-13T00:06:38Z","url":"https://github.com/rafatrinity/sample/issues/4","number":4,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"sample","url":"https://github.com/rafatrinity/sample","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU4Mjk0MTc5NzM=","closed":false,"title":"conectar na API marvel","createdAt":"2021-03-11T18:32:01Z","url":"https://github.com/rafatrinity/sample/issues/3","number":3,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"sample","url":"https://github.com/rafatrinity/sample","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU4Mjk0MDg5NDc=","closed":false,"title":"fazer primeiro deploy","createdAt":"2021-03-11T18:18:40Z","url":"https://github.com/rafatrinity/sample/issues/2","number":2,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"sample","url":"https://github.com/rafatrinity/sample","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU3Mjg5MDQ4NTg=","closed":false,"title":"Criar infraestrutura docker.","createdAt":"2020-10-25T00:12:16Z","url":"https://github.com/rafatrinity/BBB21/issues/2","number":2,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"BBB21","url":"https://github.com/rafatrinity/BBB21","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU3Mjg5MDI0MzI=","closed":false,"title":"Mapear tela de login","createdAt":"2020-10-24T23:54:57Z","url":"https://github.com/rafatrinity/BBB21/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"BBB21","url":"https://github.com/rafatrinity/BBB21","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU2NjgxNDA4MjM=","closed":true,"title":"TS Server fatal error:  Debug Failure.","createdAt":"2020-07-29T20:47:24Z","url":"https://github.com/microsoft/vscode/issues/103584","number":103584,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/12821956?u=a3fbee3660f44f68c36889429bf76645fa2cfc65&v=4","name":"Matt Bierner","url":"https://github.com/mjbvz"}]},"repository":{"name":"vscode","url":"https://github.com/microsoft/vscode","owner":{"login":"microsoft","avatarUrl":"https://avatars.githubusercontent.com/u/6154722?v=4","url":"https://github.com/microsoft"}}},{"id":"MDU6SXNzdWU2MjIwMzIxNzA=","closed":false,"title":"Endpoint de cadastro de usuario","createdAt":"2020-05-20T19:32:13Z","url":"https://github.com/rafatrinity/anonibus/issues/14","number":14,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"anonibus","url":"https://github.com/rafatrinity/anonibus","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU2MjIwMjY1NzE=","closed":false,"title":"Montar tela de cadastro de usuario.","createdAt":"2020-05-20T19:21:57Z","url":"https://github.com/rafatrinity/anonibus/issues/13","number":13,"assignees":{"nodes":[]},"repository":{"name":"anonibus","url":"https://github.com/rafatrinity/anonibus","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU2MTk4MjU3MjE=","closed":true,"title":"Arquitetura","createdAt":"2020-05-17T23:51:50Z","url":"https://github.com/rafatrinity/anonibus/issues/11","number":11,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"anonibus","url":"https://github.com/rafatrinity/anonibus","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU1OTMwMDAxOTk=","closed":false,"title":"listagem de usuários","createdAt":"2020-04-03T00:33:37Z","url":"https://github.com/rafatrinity/bom-garoto/issues/21","number":21,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"bom-garoto","url":"https://github.com/rafatrinity/bom-garoto","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU1OTI5OTkyMTc=","closed":false,"title":"listagem de incidents","createdAt":"2020-04-03T00:30:12Z","url":"https://github.com/rafatrinity/bom-garoto/issues/20","number":20,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"bom-garoto","url":"https://github.com/rafatrinity/bom-garoto","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU1OTI5OTcwODI=","closed":false,"title":"pagina de login","createdAt":"2020-04-03T00:23:00Z","url":"https://github.com/rafatrinity/bom-garoto/issues/19","number":19,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"bom-garoto","url":"https://github.com/rafatrinity/bom-garoto","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU1OTI5ODk2OTA=","closed":true,"title":"autenticação segura","createdAt":"2020-04-03T00:01:47Z","url":"https://github.com/rafatrinity/bom-garoto/issues/18","number":18,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"bom-garoto","url":"https://github.com/rafatrinity/bom-garoto","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU1ODk4NTk0OTg=","closed":true,"title":"testes","createdAt":"2020-03-29T19:00:55Z","url":"https://github.com/rafatrinity/bom-garoto/issues/15","number":15,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"bom-garoto","url":"https://github.com/rafatrinity/bom-garoto","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU1ODk4NTc1NjY=","closed":true,"title":"validações","createdAt":"2020-03-29T18:51:03Z","url":"https://github.com/rafatrinity/bom-garoto/issues/14","number":14,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"bom-garoto","url":"https://github.com/rafatrinity/bom-garoto","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU1ODg1Mzk5MTk=","closed":true,"title":"criar login simplificado","createdAt":"2020-03-26T16:10:30Z","url":"https://github.com/rafatrinity/bom-garoto/issues/12","number":12,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"bom-garoto","url":"https://github.com/rafatrinity/bom-garoto","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU1ODgwMjMwNjg=","closed":true,"title":"código de conduta.","createdAt":"2020-03-25T22:14:40Z","url":"https://github.com/rafatrinity/bom-garoto/issues/11","number":11,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"bom-garoto","url":"https://github.com/rafatrinity/bom-garoto","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU1ODgwMTcwMTA=","closed":true,"title":"Incidents","createdAt":"2020-03-25T22:00:23Z","url":"https://github.com/rafatrinity/bom-garoto/issues/9","number":9,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"bom-garoto","url":"https://github.com/rafatrinity/bom-garoto","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU1ODgwMTU3MjQ=","closed":true,"title":"ONG's","createdAt":"2020-03-25T21:57:48Z","url":"https://github.com/rafatrinity/bom-garoto/issues/8","number":8,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"bom-garoto","url":"https://github.com/rafatrinity/bom-garoto","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU1ODc5MzI4MDQ=","closed":true,"title":"Controllers","createdAt":"2020-03-25T19:19:59Z","url":"https://github.com/rafatrinity/bom-garoto/issues/7","number":7,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"bom-garoto","url":"https://github.com/rafatrinity/bom-garoto","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU1ODc0MDU2NTQ=","closed":true,"title":"Banco de dados","createdAt":"2020-03-25T02:54:31Z","url":"https://github.com/rafatrinity/bom-garoto/issues/5","number":5,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"bom-garoto","url":"https://github.com/rafatrinity/bom-garoto","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU1ODc0MDUxMzM=","closed":true,"title":"banco de dados","createdAt":"2020-03-25T02:52:47Z","url":"https://github.com/rafatrinity/bom-garoto/issues/4","number":4,"assignees":{"nodes":[]},"repository":{"name":"bom-garoto","url":"https://github.com/rafatrinity/bom-garoto","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU1ODcyODcxOTc=","closed":true,"title":"Apresentação","createdAt":"2020-03-24T21:20:57Z","url":"https://github.com/rafatrinity/bom-garoto/issues/2","number":2,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"bom-garoto","url":"https://github.com/rafatrinity/bom-garoto","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}},{"id":"MDU6SXNzdWU1ODcyODY3MTM=","closed":true,"title":"Abiente","createdAt":"2020-03-24T21:20:08Z","url":"https://github.com/rafatrinity/bom-garoto/issues/1","number":1,"assignees":{"nodes":[{"avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","name":"RAFAEL TRINDADE","url":"https://github.com/rafatrinity"}]},"repository":{"name":"bom-garoto","url":"https://github.com/rafatrinity/bom-garoto","owner":{"login":"rafatrinity","avatarUrl":"https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4","url":"https://github.com/rafatrinity"}}}],"open":19,"closed":21,"totalCount":40}
+{
+  "closed": 22,
+  "data": [
+    {
+      "id": "I_kwDOE1bDdc50I7Be",
+      "closed": true,
+      "title": "Erro ao realizar login",
+      "createdAt": "2023-10-18T00:12:13Z",
+      "url": "https://github.com/filipedeschamps/tabnews.com.br/issues/1536",
+      "number": 1536,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "tabnews.com.br",
+        "url": "https://github.com/filipedeschamps/tabnews.com.br",
+        "owner": {
+          "login": "filipedeschamps",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/4248081?u=98a643ad7f90c7950d9311e4b5a762fe77af8ada&v=4",
+          "url": "https://github.com/filipedeschamps"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJ-kMt85sbrap",
+      "closed": false,
+      "title": "acessar favorito 1",
+      "createdAt": "2023-07-24T21:46:57Z",
+      "url": "https://github.com/rafatrinity/cassino-scraping/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "cassino-scraping",
+        "url": "https://github.com/rafatrinity/cassino-scraping",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJ-kMt85sbp9y",
+      "closed": false,
+      "title": "acessar aba cassino ao vivo",
+      "createdAt": "2023-07-24T21:41:22Z",
+      "url": "https://github.com/rafatrinity/cassino-scraping/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "cassino-scraping",
+        "url": "https://github.com/rafatrinity/cassino-scraping",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJ-kMt85sbom0",
+      "closed": false,
+      "title": "fazer login",
+      "createdAt": "2023-07-24T21:36:33Z",
+      "url": "https://github.com/rafatrinity/cassino-scraping/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "cassino-scraping",
+        "url": "https://github.com/rafatrinity/cassino-scraping",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJXCbRc5jg_cC",
+      "closed": false,
+      "title": "Save user information in MongoDB.",
+      "createdAt": "2023-04-15T22:28:00Z",
+      "url": "https://github.com/rafatrinity/user-registration/issues/11",
+      "number": 11,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "user-registration",
+        "url": "https://github.com/rafatrinity/user-registration",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJXCbRc5jg_b1",
+      "closed": true,
+      "title": "Send data to RabbitMQ.",
+      "createdAt": "2023-04-15T22:27:56Z",
+      "url": "https://github.com/rafatrinity/user-registration/issues/10",
+      "number": 10,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "user-registration",
+        "url": "https://github.com/rafatrinity/user-registration",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJXCbRc5jg_J2",
+      "closed": true,
+      "title": "Create CRUD endpoints",
+      "createdAt": "2023-04-15T22:21:48Z",
+      "url": "https://github.com/rafatrinity/user-registration/issues/7",
+      "number": 7,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "user-registration",
+        "url": "https://github.com/rafatrinity/user-registration",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJXCbRc5jfL21",
+      "closed": true,
+      "title": "Create Main application",
+      "createdAt": "2023-04-15T02:59:07Z",
+      "url": "https://github.com/rafatrinity/user-registration/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "user-registration",
+        "url": "https://github.com/rafatrinity/user-registration",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJXCbRc5jfLoj",
+      "closed": false,
+      "title": "Create an application for sending emails.",
+      "createdAt": "2023-04-15T02:55:31Z",
+      "url": "https://github.com/rafatrinity/user-registration/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "user-registration",
+        "url": "https://github.com/rafatrinity/user-registration",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJXCbRc5jfLSs",
+      "closed": true,
+      "title": "Create mongoDb container",
+      "createdAt": "2023-04-15T02:49:33Z",
+      "url": "https://github.com/rafatrinity/user-registration/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "user-registration",
+        "url": "https://github.com/rafatrinity/user-registration",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJXCbRc5jfLMJ",
+      "closed": true,
+      "title": "Create RabbitMq container",
+      "createdAt": "2023-04-15T02:48:13Z",
+      "url": "https://github.com/rafatrinity/user-registration/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "user-registration",
+        "url": "https://github.com/rafatrinity/user-registration",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJPujZs5iBVN5",
+      "closed": true,
+      "title": "iniciar o projeto usando angular na versão mais recente",
+      "createdAt": "2023-03-28T19:07:38Z",
+      "url": "https://github.com/rafatrinity/WeatherForecast/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "WeatherForecast",
+        "url": "https://github.com/rafatrinity/WeatherForecast",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "I_kwDODqGIis5hqklC",
+      "closed": true,
+      "title": "You need to enable JavaScript to run this app.",
+      "createdAt": "2023-03-24T00:57:37Z",
+      "url": "https://github.com/ashutosh1919/masterPortfolio/issues/279",
+      "number": 279,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "masterPortfolio",
+        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "owner": {
+          "login": "ashutosh1919",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "url": "https://github.com/ashutosh1919"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGKP7bs49IXqO",
+      "closed": false,
+      "title": "Funcional",
+      "createdAt": "2021-10-13T19:10:57Z",
+      "url": "https://github.com/britaniacrm/crm/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "crm",
+        "url": "https://github.com/britaniacrm/crm",
+        "owner": {
+          "login": "britaniacrm",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/91884648?v=4",
+          "url": "https://github.com/britaniacrm"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGKP7bs49IW_q",
+      "closed": false,
+      "title": "Código",
+      "createdAt": "2021-10-13T19:07:59Z",
+      "url": "https://github.com/britaniacrm/crm/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "crm",
+        "url": "https://github.com/britaniacrm/crm",
+        "owner": {
+          "login": "britaniacrm",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/91884648?v=4",
+          "url": "https://github.com/britaniacrm"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGKP7bs49IW11",
+      "closed": false,
+      "title": "IDE",
+      "createdAt": "2021-10-13T19:07:14Z",
+      "url": "https://github.com/britaniacrm/crm/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "crm",
+        "url": "https://github.com/britaniacrm/crm",
+        "owner": {
+          "login": "britaniacrm",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/91884648?v=4",
+          "url": "https://github.com/britaniacrm"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGIPGtc48NmQC",
+      "closed": false,
+      "title": "configurar linting",
+      "createdAt": "2021-09-28T20:52:20Z",
+      "url": "https://github.com/britaniacwb/COM/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "COM",
+        "url": "https://github.com/britaniacwb/COM",
+        "owner": {
+          "login": "britaniacwb",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/88673148?v=4",
+          "url": "https://github.com/britaniacwb"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGIPGtc48Ne6X",
+      "closed": false,
+      "title": "unir projetos (FRONT)",
+      "createdAt": "2021-09-28T20:16:10Z",
+      "url": "https://github.com/britaniacwb/COM/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "COM",
+        "url": "https://github.com/britaniacwb/COM",
+        "owner": {
+          "login": "britaniacwb",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/88673148?v=4",
+          "url": "https://github.com/britaniacwb"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGIPGtc48NaQ_",
+      "closed": false,
+      "title": "unir projetos (BACK)",
+      "createdAt": "2021-09-28T19:56:10Z",
+      "url": "https://github.com/britaniacwb/COM/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "COM",
+        "url": "https://github.com/britaniacwb/COM",
+        "owner": {
+          "login": "britaniacwb",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/88673148?v=4",
+          "url": "https://github.com/britaniacwb"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOGIPGtc48NXjN",
+      "closed": false,
+      "title": "projeto inicial",
+      "createdAt": "2021-09-28T19:42:33Z",
+      "url": "https://github.com/britaniacwb/COM/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "COM",
+        "url": "https://github.com/britaniacwb/COM",
+        "owner": {
+          "login": "britaniacwb",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/88673148?v=4",
+          "url": "https://github.com/britaniacwb"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MzA3MjYyODk=",
+      "closed": false,
+      "title": "criar primeira tela",
+      "createdAt": "2021-03-13T00:06:38Z",
+      "url": "https://github.com/rafatrinity/sample/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "sample",
+        "url": "https://github.com/rafatrinity/sample",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4Mjk0MTc5NzM=",
+      "closed": false,
+      "title": "conectar na API marvel",
+      "createdAt": "2021-03-11T18:32:01Z",
+      "url": "https://github.com/rafatrinity/sample/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "sample",
+        "url": "https://github.com/rafatrinity/sample",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4Mjk0MDg5NDc=",
+      "closed": false,
+      "title": "fazer primeiro deploy",
+      "createdAt": "2021-03-11T18:18:40Z",
+      "url": "https://github.com/rafatrinity/sample/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "sample",
+        "url": "https://github.com/rafatrinity/sample",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3Mjg5MDQ4NTg=",
+      "closed": false,
+      "title": "Criar infraestrutura docker.",
+      "createdAt": "2020-10-25T00:12:16Z",
+      "url": "https://github.com/rafatrinity/BBB21/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "BBB21",
+        "url": "https://github.com/rafatrinity/BBB21",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3Mjg5MDI0MzI=",
+      "closed": false,
+      "title": "Mapear tela de login",
+      "createdAt": "2020-10-24T23:54:57Z",
+      "url": "https://github.com/rafatrinity/BBB21/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "BBB21",
+        "url": "https://github.com/rafatrinity/BBB21",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NjgxNDA4MjM=",
+      "closed": true,
+      "title": "TS Server fatal error:  Debug Failure.",
+      "createdAt": "2020-07-29T20:47:24Z",
+      "url": "https://github.com/microsoft/vscode/issues/103584",
+      "number": 103584,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/12821956?u=a3fbee3660f44f68c36889429bf76645fa2cfc65&v=4",
+            "name": "Matt Bierner",
+            "url": "https://github.com/mjbvz"
+          }
+        ]
+      },
+      "repository": {
+        "name": "vscode",
+        "url": "https://github.com/microsoft/vscode",
+        "owner": {
+          "login": "microsoft",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+          "url": "https://github.com/microsoft"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2MjIwMzIxNzA=",
+      "closed": false,
+      "title": "Endpoint de cadastro de usuario",
+      "createdAt": "2020-05-20T19:32:13Z",
+      "url": "https://github.com/rafatrinity/anonibus/issues/14",
+      "number": 14,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "anonibus",
+        "url": "https://github.com/rafatrinity/anonibus",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2MjIwMjY1NzE=",
+      "closed": false,
+      "title": "Montar tela de cadastro de usuario.",
+      "createdAt": "2020-05-20T19:21:57Z",
+      "url": "https://github.com/rafatrinity/anonibus/issues/13",
+      "number": 13,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "anonibus",
+        "url": "https://github.com/rafatrinity/anonibus",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2MTk4MjU3MjE=",
+      "closed": true,
+      "title": "Arquitetura",
+      "createdAt": "2020-05-17T23:51:50Z",
+      "url": "https://github.com/rafatrinity/anonibus/issues/11",
+      "number": 11,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "anonibus",
+        "url": "https://github.com/rafatrinity/anonibus",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1OTMwMDAxOTk=",
+      "closed": false,
+      "title": "listagem de usuários",
+      "createdAt": "2020-04-03T00:33:37Z",
+      "url": "https://github.com/rafatrinity/bom-garoto/issues/21",
+      "number": 21,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bom-garoto",
+        "url": "https://github.com/rafatrinity/bom-garoto",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1OTI5OTkyMTc=",
+      "closed": false,
+      "title": "listagem de incidents",
+      "createdAt": "2020-04-03T00:30:12Z",
+      "url": "https://github.com/rafatrinity/bom-garoto/issues/20",
+      "number": 20,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bom-garoto",
+        "url": "https://github.com/rafatrinity/bom-garoto",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1OTI5OTcwODI=",
+      "closed": false,
+      "title": "pagina de login",
+      "createdAt": "2020-04-03T00:23:00Z",
+      "url": "https://github.com/rafatrinity/bom-garoto/issues/19",
+      "number": 19,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bom-garoto",
+        "url": "https://github.com/rafatrinity/bom-garoto",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1OTI5ODk2OTA=",
+      "closed": true,
+      "title": "autenticação segura",
+      "createdAt": "2020-04-03T00:01:47Z",
+      "url": "https://github.com/rafatrinity/bom-garoto/issues/18",
+      "number": 18,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bom-garoto",
+        "url": "https://github.com/rafatrinity/bom-garoto",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1ODk4NTk0OTg=",
+      "closed": true,
+      "title": "testes",
+      "createdAt": "2020-03-29T19:00:55Z",
+      "url": "https://github.com/rafatrinity/bom-garoto/issues/15",
+      "number": 15,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bom-garoto",
+        "url": "https://github.com/rafatrinity/bom-garoto",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1ODk4NTc1NjY=",
+      "closed": true,
+      "title": "validações",
+      "createdAt": "2020-03-29T18:51:03Z",
+      "url": "https://github.com/rafatrinity/bom-garoto/issues/14",
+      "number": 14,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bom-garoto",
+        "url": "https://github.com/rafatrinity/bom-garoto",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1ODg1Mzk5MTk=",
+      "closed": true,
+      "title": "criar login simplificado",
+      "createdAt": "2020-03-26T16:10:30Z",
+      "url": "https://github.com/rafatrinity/bom-garoto/issues/12",
+      "number": 12,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bom-garoto",
+        "url": "https://github.com/rafatrinity/bom-garoto",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1ODgwMjMwNjg=",
+      "closed": true,
+      "title": "código de conduta.",
+      "createdAt": "2020-03-25T22:14:40Z",
+      "url": "https://github.com/rafatrinity/bom-garoto/issues/11",
+      "number": 11,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bom-garoto",
+        "url": "https://github.com/rafatrinity/bom-garoto",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1ODgwMTcwMTA=",
+      "closed": true,
+      "title": "Incidents",
+      "createdAt": "2020-03-25T22:00:23Z",
+      "url": "https://github.com/rafatrinity/bom-garoto/issues/9",
+      "number": 9,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bom-garoto",
+        "url": "https://github.com/rafatrinity/bom-garoto",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1ODgwMTU3MjQ=",
+      "closed": true,
+      "title": "ONG's",
+      "createdAt": "2020-03-25T21:57:48Z",
+      "url": "https://github.com/rafatrinity/bom-garoto/issues/8",
+      "number": 8,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bom-garoto",
+        "url": "https://github.com/rafatrinity/bom-garoto",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1ODc5MzI4MDQ=",
+      "closed": true,
+      "title": "Controllers",
+      "createdAt": "2020-03-25T19:19:59Z",
+      "url": "https://github.com/rafatrinity/bom-garoto/issues/7",
+      "number": 7,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bom-garoto",
+        "url": "https://github.com/rafatrinity/bom-garoto",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1ODc0MDU2NTQ=",
+      "closed": true,
+      "title": "Banco de dados",
+      "createdAt": "2020-03-25T02:54:31Z",
+      "url": "https://github.com/rafatrinity/bom-garoto/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bom-garoto",
+        "url": "https://github.com/rafatrinity/bom-garoto",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1ODc0MDUxMzM=",
+      "closed": true,
+      "title": "banco de dados",
+      "createdAt": "2020-03-25T02:52:47Z",
+      "url": "https://github.com/rafatrinity/bom-garoto/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bom-garoto",
+        "url": "https://github.com/rafatrinity/bom-garoto",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1ODcyODcxOTc=",
+      "closed": true,
+      "title": "Apresentação",
+      "createdAt": "2020-03-24T21:20:57Z",
+      "url": "https://github.com/rafatrinity/bom-garoto/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bom-garoto",
+        "url": "https://github.com/rafatrinity/bom-garoto",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1ODcyODY3MTM=",
+      "closed": true,
+      "title": "Abiente",
+      "createdAt": "2020-03-24T21:20:08Z",
+      "url": "https://github.com/rafatrinity/bom-garoto/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+            "name": "RAFAEL TRINDADE",
+            "url": "https://github.com/rafatrinity"
+          }
+        ]
+      },
+      "repository": {
+        "name": "bom-garoto",
+        "url": "https://github.com/rafatrinity/bom-garoto",
+        "owner": {
+          "login": "rafatrinity",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20962670?u=837c0e3ef21ea4333d188be69ff23991abca4b49&v=4",
+          "url": "https://github.com/rafatrinity"
+        }
+      }
+    }
+  ],
+  "open": 22,
+  "totalCount": 44
+}
